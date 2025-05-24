@@ -21,6 +21,10 @@ df = pd.concat([df, pd.DataFrame([new_row_v3])], ignore_index=True)
 new_row_2 = {"id": 6, "name": "Lallan", "score": 98}
 df = pd.concat([df, pd.DataFrame([new_row_2])], ignore_index=True)
 
+# Add new row for version 3 by saksham
+new_row_3 = {"id": 7, "name": "malkhan", "score": 100}
+df = pd.concat([df, pd.DataFrame([new_row_3])], ignore_index=True)
+
 # Step 4: Ensure the 'data' directory exists
 os.makedirs("data", exist_ok=True)
 
