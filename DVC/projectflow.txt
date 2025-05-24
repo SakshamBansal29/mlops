@@ -1,0 +1,4 @@
+1. Crete gitrepo and clone it in local
+2. git init and dvc init
+2. create mycode.py and run 
+3. mkdir s3 folder
