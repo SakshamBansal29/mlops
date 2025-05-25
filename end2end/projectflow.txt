@@ -1,0 +1,9 @@
+1. Create a github repot and clone it
+2. add src and experiments folder
+3. add data, models, reports to itignore
+4 Add git commit push
+
+Setting up dvc pipeline (without params)
+5 create dvc.yaml file and add stages to it.
+6 dvc init then do dvc repro to test the pipeline automation (check dvc dag)
+7 git add, commit, push

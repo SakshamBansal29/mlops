@@ -8,6 +8,6 @@
 8. make changes (adding id 6) to the data in mycode.py
 9. check with dvc status [S3 - two files 1a, ee ;; data.dvc md5]
 10. dvc commit and dvc push [S3 - two files added 7d, b5 ;; data.dvc md5 changed]
-
+11. Repeat step 8, 9, 10 (ading id 7 to the data this time)
 
 
