@@ -8,3 +8,9 @@
 2025-05-25 21:18:16,379 - feature_engineering - DEBUG - tfidf applied and data transformed
 2025-05-25 21:18:16,493 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
 2025-05-25 21:18:16,517 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-05-25 23:58:23,360 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-25 23:58:23,382 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-25 23:58:23,382 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-25 23:58:23,437 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-05-25 23:58:23,564 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-25 23:58:23,587 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
