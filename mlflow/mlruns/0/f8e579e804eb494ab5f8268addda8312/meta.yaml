@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f8e579e804eb494ab5f8268addda8312/artifacts
+end_time: 1748774545652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8e579e804eb494ab5f8268addda8312
+run_name: bold-lamb-845
+run_uuid: f8e579e804eb494ab5f8268addda8312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748774544599
+status: 3
+tags: []
+user_id: khushi jain

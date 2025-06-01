@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc712f80ec974b90864595f9d8f90218/artifacts
+end_time: 1748692146548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc712f80ec974b90864595f9d8f90218
+run_name: agreeable-mink-771
+run_uuid: dc712f80ec974b90864595f9d8f90218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748692144865
+status: 3
+tags: []
+user_id: khushi jain
