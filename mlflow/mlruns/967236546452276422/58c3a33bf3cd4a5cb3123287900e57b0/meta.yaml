@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422/58c3a33bf3cd4a5cb3123287900e57b0/artifacts
+end_time: 1748788973778
+entry_point_name: ''
+experiment_id: '967236546452276422'
+lifecycle_stage: active
+run_id: 58c3a33bf3cd4a5cb3123287900e57b0
+run_name: amazing-sheep-671
+run_uuid: 58c3a33bf3cd4a5cb3123287900e57b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788973634
+status: 3
+tags: []
+user_id: khushi jain

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422/674e7979bb344459aecf95e8ee1a849b/artifacts
+end_time: 1748788973248
+entry_point_name: ''
+experiment_id: '967236546452276422'
+lifecycle_stage: active
+run_id: 674e7979bb344459aecf95e8ee1a849b
+run_name: skillful-donkey-199
+run_uuid: 674e7979bb344459aecf95e8ee1a849b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788973070
+status: 3
+tags: []
+user_id: khushi jain

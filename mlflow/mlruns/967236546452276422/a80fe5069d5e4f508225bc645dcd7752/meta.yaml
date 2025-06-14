@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422/a80fe5069d5e4f508225bc645dcd7752/artifacts
+end_time: 1748788972612
+entry_point_name: ''
+experiment_id: '967236546452276422'
+lifecycle_stage: active
+run_id: a80fe5069d5e4f508225bc645dcd7752
+run_name: silent-cow-585
+run_uuid: a80fe5069d5e4f508225bc645dcd7752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788972477
+status: 3
+tags: []
+user_id: khushi jain

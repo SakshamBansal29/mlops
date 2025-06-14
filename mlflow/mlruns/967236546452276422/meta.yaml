@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422
+creation_time: 1748788958057
+experiment_id: '967236546452276422'
+last_update_time: 1748788958057
+lifecycle_stage: active
+name: breast-cancer-rf-hp

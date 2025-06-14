@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422/97916640c0dd48e9b2fbe2a65dce250e/artifacts
+end_time: 1748788973446
+entry_point_name: ''
+experiment_id: '967236546452276422'
+lifecycle_stage: active
+run_id: 97916640c0dd48e9b2fbe2a65dce250e
+run_name: powerful-wolf-593
+run_uuid: 97916640c0dd48e9b2fbe2a65dce250e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788973259
+status: 3
+tags: []
+user_id: khushi jain

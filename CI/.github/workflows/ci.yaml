@@ -1,0 +1,35 @@
+name: CI Workflows
+
+on:
+  push:
+    branches:
+      -main
+  
+  pull_request:
+    branches:
+      -main
+  
+jobs:
+  test:
+    run-on: ubuntu-latest
+
+    steps:
+    - name: checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Pyhton
+    - uses: actions/setup-python@v2
+      with:
+        python_version: 3.9
+
+    - name: Install Dependencies
+      run: |
+        python -m pip insall --upgrade pip
+        pip install pytest streamlit
+    
+    - name: Run tests
+      run: |
+        pytest _test.py
+
+    
+     

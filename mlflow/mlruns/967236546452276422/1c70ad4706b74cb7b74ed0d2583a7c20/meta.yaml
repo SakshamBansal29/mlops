@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/khushi%20jain/OneDrive/Documents/mlops/mlops_clone_V2/mlops/mlflow/mlruns/967236546452276422/1c70ad4706b74cb7b74ed0d2583a7c20/artifacts
+end_time: 1748788973053
+entry_point_name: ''
+experiment_id: '967236546452276422'
+lifecycle_stage: active
+run_id: 1c70ad4706b74cb7b74ed0d2583a7c20
+run_name: abrasive-conch-158
+run_uuid: 1c70ad4706b74cb7b74ed0d2583a7c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788972929
+status: 3
+tags: []
+user_id: khushi jain
