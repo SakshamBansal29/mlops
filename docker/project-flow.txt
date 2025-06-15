@@ -1,0 +1,7 @@
+Login to docker nd docker hub
+Build docker image: docker build -t docker-demo
+Run the container: docker run -p 5000:5000 docker-demo
+Tag the image: docker tag docker-demo SakshamBansal29/docker-demo:latest
+Push image to docker hub: docker push SakshamBansal29/docker-demo:latest
+Pull image from dcoker docker pull SakshamBansal29/docker-demo:latest 
+Run the pulled docker image: docker run -p 5000:5000 SakshamBansal29/docker-demo:latest

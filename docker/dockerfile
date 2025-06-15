@@ -1,0 +1,20 @@
+##Official python as base image
+FROM python:3.8-slim
+
+# Set up the working directory in the image
+WORKDIR /app
+
+# Copy from current path to /app direcotry in image
+COPY . /app
+
+# Install any packages in requirements.txt file
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Make port available to outside the container
+EXPOSE 5000
+
+# Define the environment variable
+ENV FLASK_APP=app.py
+
+# Run the flask app
+CMD ["flask", "run", "--host=0.0.0.0"]
